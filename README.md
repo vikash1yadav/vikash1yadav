@@ -3,7 +3,7 @@
 To learn more about me, goto:    
 
 on <a href="https://www.linkedin.com/in/vikas-kumar-b301a1167">LinkedIn</a>
-<a href="https://www.linkedin.com/in/vikas-kumar-b301a1167">Resume</a>
+<a href="https://drive.google.com/file/d/1zOd9R7LTFQ6IR_-nMsq_NbQ8jZiv1PeJ/view?usp=drivesdk">Resume</a>
 
 
 
