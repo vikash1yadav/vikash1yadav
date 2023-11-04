@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [day2movies](day2movies.com)
 
-- 👨‍💻 All of my projects are available at [https://vikas-kumar.vercel.app/#](https://vikash1yadav.github.io/react-portfolio/)#)
+- 👨‍💻 All of my projects are available at [(https://vikash1yadav.github.io/react-portfolio/#](https://vikash1yadav.github.io/react-portfolio/)#)
 
 - 💬 Ask me about **MERN Stack development**
 
